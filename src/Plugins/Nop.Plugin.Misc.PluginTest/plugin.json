@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "PluginTest",
+  "SystemName": "Misc.PluginTest",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "Mahdi Roshanfekr - 09374891044 - mahdi.r.ln@gmail.com",
+  "DisplayOrder": -1,
+  "FileName": "Nop.Plugin.Misc.PluginTest.dll",
+  "Description": "This plugin is for test"
+}
